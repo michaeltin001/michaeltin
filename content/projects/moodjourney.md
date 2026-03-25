@@ -14,11 +14,11 @@ tags:
 categories:
   - projects
 # cover: "images/01.avif"
-link: "https://github.com/MAJIEF-CS180/MoodJourney"
+# link: "https://github.com/MAJIEF-CS180/MoodJourney"
 status: "completed"
 ---
 
-{{< button text="View GitHub" url="https://github.com/MAJIEF-CS180/MoodJourney" />}}{{< button text="View Documentation" url="/moodjourney.pdf" variant="secondary" />}}
+{{< button text="View GitHub" url="https://github.com/MAJIEF-CS180/MoodJourney" icon="github" target="_blank" />}}{{< button text="View Documentation" url="/moodjourney.pdf" icon="external-link" target="_blank" />}}
 
 **MoodJourney is a modern, digital and user-friendly journaling application that promotes self-reflection through features such as sentiment analysis and mood trend visualization. The application has the following features:**
 * Provides a secure and accessible platform for users to create and store journal entries
