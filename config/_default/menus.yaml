@@ -11,11 +11,11 @@ main:
     params:
       icon: projects
 
-  - name: Archive
-    pageRef: /archive
-    weight: 30
-    params:
-      icon: archive
+  # - name: Archive
+  #   pageRef: /archive
+  #   weight: 30
+  #   params:
+  #     icon: archive
 
   # # Example: parent item with dropdown submenu children
   # - name: More
