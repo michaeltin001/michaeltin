@@ -1,7 +1,7 @@
 ---
 dismissible: true
 date: 2025-12-31
-title: "Home | Michael Tin"
+title: "Home"
 author:
   name: "Michael Tin"
   title: "Recent Computer Engineering Graduate from UC Riverside"

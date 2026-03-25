@@ -58,10 +58,10 @@ toc:
   position: "center" # Options: center | side
 
 # Default color scheme
-colorScheme: "amethyst"
+colorScheme: "default"
 themes:
-  amethyst:
-    name: "Amethyst"
+  default:
+    name: "Default"
     order: 1
   # default:
   #   name: "Default"
