@@ -33,3 +33,7 @@ The enemies vary in color, with green slimes being the easiest due to their mode
 The player can earn gold (the currency of the game) by defeating enemies and surviving waves. Our game rewards gold based on the type of enemy slain (so if a green slime starts off with 2 HP, the player earns 2 HP) Surviving levels reward the player with 100 gold to boost tower upgrades and buy more towers.
 
 The game also includes a “Save Game” feature, which allows the player to save their progress and come back to the game at a later time. This feature saves the current state, difficulty setting, and level progression of the game.
+
+{{< youtube riOv83wPvEo >}}
+
+{{< embed-pdf url="/tower-titans.pdf" >}}

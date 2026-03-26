@@ -3,7 +3,10 @@ languageCode: en
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 title: Michael Tin
-theme: "hugo-narrow"
+theme: 
+  - "hugo-embed-pdf-shortcode"
+  - "hugo-narrow"
+enableInlineShortcodes: true
 
 hasCJKLanguage: false
 enableEmoji: true

@@ -5,7 +5,8 @@ defaultAuthor: "Michael Tin"
 language: "en"
 shortName: "Michael Tin" # PWA
 images:
-  - "/images/og-default.avif"
+  # - "/images/og-default.avif"
+  - "/images/michael.jpg"
 
 # Favicon
 favicon:
@@ -110,7 +111,7 @@ home:
   contentOrder:
     - author-section
     - page-content
-    - recent-posts
+    # - recent-posts
     - featured-projects.html
 
 # Post configuration

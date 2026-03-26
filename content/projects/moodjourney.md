@@ -157,3 +157,5 @@ cd src-tauri
 ```bash
 cargo test
 ```
+
+{{< embed-pdf url="/moodjourney.pdf" >}}

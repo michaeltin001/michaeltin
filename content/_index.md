@@ -20,4 +20,7 @@ author:
     - name: "X"
       url: "https://x.com/michaeltin001"
       icon: "x"
+    - name: "CV"
+      url: "/cv.pdf"
+      icon: "file-text"
 ---
