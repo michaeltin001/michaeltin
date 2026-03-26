@@ -1,21 +1,21 @@
 main:
-  # - name: Posts
-  #   pageRef: /posts
-  #   weight: 10
-  #   params:
-  #     icon: posts
+  - name: Home
+    pageRef: /
+    weight: 10
+    params:
+      icon: home
 
   - name: Projects
     pageRef: /projects
-    weight: 10
+    weight: 20
     params:
       icon: projects
 
-  - name: Posts
-    pageRef: /posts
-    weight: 20
-    params:
-      icon: posts
+  # - name: Posts
+  #   pageRef: /posts
+  #   weight: 20
+  #   params:
+  #     icon: posts
 
   # - name: Archive
   #   pageRef: /archive
