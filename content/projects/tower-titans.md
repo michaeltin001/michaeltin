@@ -5,7 +5,7 @@ draft: false
 slug: tower-titans
 description: "Tower Titans is a 2D, top-down tower defense game where the player will strategically defend a map against waves of enemies."
 summary: "Tower Titans is a 2D, top-down tower defense game where the player will strategically defend a map against waves of enemies."
-featured: true
+featured: false
 tags:
   - C
   - Assembly

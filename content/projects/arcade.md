@@ -5,7 +5,7 @@ draft: false
 slug: arcade
 description: "The Integrated Arcade System is a dual-microcontroller system for the popular \"Connect 4\" and \"Whack-a-Mole\" games."
 summary: "The Integrated Arcade System is a dual-microcontroller system for the popular \"Connect 4\" and \"Whack-a-Mole\" games."
-featured: true
+featured: false
 tags:
   - C
   - C++
