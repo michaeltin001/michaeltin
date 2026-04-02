@@ -11,6 +11,12 @@ main:
     params:
       icon: projects
 
+  - name: Teaching
+    pageRef: /teaching
+    weight: 30
+    params:
+      icon: book-open
+
   # - name: Posts
   #   pageRef: /posts
   #   weight: 20
