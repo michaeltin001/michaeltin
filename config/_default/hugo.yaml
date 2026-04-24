@@ -6,6 +6,7 @@ title: Michael Tin
 theme: 
   - "hugo-embed-pdf-shortcode"
   - "hugo-narrow"
+enableRobotsTXT: true
 enableInlineShortcodes: true
 
 hasCJKLanguage: false
