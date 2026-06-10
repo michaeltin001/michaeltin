@@ -59,14 +59,11 @@ toc:
   position: "center" # Options: center | side
 
 # Default color scheme
-colorScheme: "default"
+colorScheme: "dracula"
 themes:
   default:
     name: "Default"
     order: 1
-  # default:
-  #   name: "Default"
-  #   order: 1
   # claude:
   #   name: "Claude"
   #   order: 2
@@ -85,9 +82,9 @@ themes:
   # abyss:
   #   name: "Abyss"
   #   order: 7
-  # dracula:
-  #   name: "Dracula"
-  #   order: 8
+  dracula:
+    name: "Dracula"
+    order: 8
   # amethyst:
   #   name: "Amethyst"
   #   order: 9
