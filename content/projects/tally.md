@@ -33,21 +33,6 @@ status: "completed"
 
 Tally was originally developed as a side project on the [Riverside STEM Foundation website](https://github.com/michaeltin001/rsf-website). The project has since been decoupled to function as a standalone utility. This allows for dedicated hosting and independent version control. The initial commit of this repository introduces a complete application with minimal changes from the original project. This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-<!-- Format: https://img.shields.io/badge/<TEXT>-<BACKGROUND_COLOR>?style=for-the-badge&logo=<LOGO_NAME>&logoColor=<LOGO_COLOR> -->
-
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=407ACC)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![Headless UI](https://img.shields.io/badge/Headless_UI-000000?style=for-the-badge&logo=headlessui&logoColor=66E3FF)
-![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=0055FF)
-![Lucide](https://img.shields.io/badge/Lucide-000000?style=for-the-badge&logo=lucide&logoColor=F56565)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=CB3837)
-![ESLint](https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint&logoColor=4B3263)
-![TOML](https://img.shields.io/badge/TOML-000000?style=for-the-badge&logo=toml&logoColor=9C4121)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=2088FF)
-
 ## Installation
 
 1. Clone the repository and navigate to the project folder directory.
