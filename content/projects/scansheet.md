@@ -1,13 +1,14 @@
 ---
 title: "Scansheet"
-date: 2025-11-30T00:00:00+00:00
+date: 2026-06-30T00:00:00+00:00
 draft: false
 slug: scansheet
 description: "Scansheet is a simple and intuitive application that keeps track of attendance records through a QR code-based system."
 summary: "Scansheet is a simple and intuitive application that keeps track of attendance records through a QR code-based system."
 featured: true
 tags:
-  - Express.js
+  - Rust
+  - Tauri
   - JavaScript
   - React
 categories:
@@ -30,35 +31,36 @@ status: "completed"
 
 ## Installation
 
-* Clone the repository and navigate to the project folder directory.
+1. Clone the repository and navigate to the project folder directory.
 
 ```bash
 git clone https://github.com/michaeltin001/Scansheet.git
 cd Scansheet
 ```
 
-* Install the project dependencies.
+2. Install the project dependencies.
 
 ```bash
-npm run install-all --prefix server
+npm install
 ```
 
-* Start the development server.
+3. Start the application in development mode.
 
 ```bash
-npm run dev --prefix server
+npm run tauri dev
 ```
 
-* Run server-side tests.
+4. Run the Rust test suite.
 
 ```bash
-npm run tests --prefix server
+cd src-tauri
+cargo test -- --nocapture
 ```
 
-* Build the client application.
+5. Build the application for production.
 
 ```bash
-npm run build --prefix client
+npm run tauri build
 ```
 
 ## Overview

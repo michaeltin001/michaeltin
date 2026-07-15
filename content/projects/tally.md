@@ -1,6 +1,6 @@
 ---
 title: "Tally"
-date: 2026-06-28T00:00:00+00:00
+date: 2026-06-30T00:00:00+00:00
 draft: false
 slug: tally
 description: "Tally is a real-time tournament scheduling dashboard designed for FIRST LEGO League (FLL) events."
@@ -9,6 +9,7 @@ featured: true
 tags:
   - Next.js
   - TypeScript
+  - React
   - Tailwind CSS
 categories:
   - projects

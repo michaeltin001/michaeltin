@@ -15,8 +15,8 @@ favicon:
 # Author info
 author:
   name: "Michael Tin"
-  title: "Recent Computer Engineering Graduate from UC Riverside"
-  description: "I am a recent graduate of the University of California, Riverside. I view myself as a hardworking individual who is always aspiring to learn new things and collaborate towards shared goals. Through my past experiences, I have strived to foster a better community by promoting education and outreach. I strongly believe that I will be able to apply leadership and teamwork skills and thrive in any environment. I wish to continue to learn and expand my horizons in order to benefit my community and create a positive change in the world."
+  title: "M.S. in Computer Engineering Student at UC Riverside"
+  description: "I am a Computer Engineering graduate student at the University of California, Riverside (UCR) exploring the intersection of computer architecture, embedded systems, and artificial intelligence. My current research interests are focused on how we can build and deploy specialized hardware to optimize, accelerate, and validate Large Language Models (LLMs). My technical foundation includes engineering advanced operating system kernel features, building data-driven web applications, and optimizing network infrastructure to reduce system latency. I am deeply passionate about systems-level engineering and am always eager to connect with fellow engineers and researchers building the next generation of AI and agentic systems."
   avatar: "/images/avatar.svg"
   social:
     - name: "Email"
